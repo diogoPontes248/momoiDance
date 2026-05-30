@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1778331886 source:c:\users\windows 11\documentos\projetos\momoi\frames.c
+	"frames.h"
+
+1778328180 c:\users\windows 11\documentos\projetos\momoi\frames.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1778334630 source:c:\users\windows 11\documentos\projetos\momoi\animacao.c
+	"animacao.h"
+
+1778335968 c:\users\windows 11\documentos\projetos\momoi\animacao.h
+	"frames.h"
+
+1778335803 source:c:\users\windows 11\documentos\projetos\momoi\main.c
+	"animacao.h"
+	<stdbool.h>
+	<time.h>
+
